@@ -9,5 +9,5 @@ Ipython
 Visualization with matplotlib, seaborn,plotly
 web scraping
 - Week2:
-Relational Databases(MySQL)
+Relational Databases(MySQL), SQLAlchemy
 - Week3:
