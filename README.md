@@ -7,7 +7,7 @@ Pandas
 Jupiter Notebook
 Ipython
 Visualization with matplotlib, seaborn,plotly
-web scraping
+web scraping with BeautifulSoup, Selenium and Requests
 - Week2:
-Relational Databases(MySQL), SQLAlchemy
+Relational Databases (MySQL), SQLAlchemy
 - Week3:
