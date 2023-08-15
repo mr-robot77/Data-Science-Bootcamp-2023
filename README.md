@@ -11,3 +11,5 @@ web scraping with BeautifulSoup, Selenium and Requests
 - Week2:
 Relational Databases (MySQL), SQLAlchemy
 - Week3:
+Git
+NoSQL , Neo4j
