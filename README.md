@@ -13,3 +13,4 @@ Relational Databases (MySQL), SQLAlchemy
 - Week3:
 Git
 NoSQL, Graph database(Neo4j) with cypher language
+Statistics & Probabilities
