@@ -4,13 +4,13 @@ topics and details notes from data science bootcamp in summary
 - Week1:
 Numpy
 Pandas
-Jupiter Notebook
+Jupyter Notebook
 Ipython
 Visualization with matplotlib, seaborn,plotly
-web scraping with BeautifulSoup, Selenium and Requests
+Web scraping with BeautifulSoup, Selenium and Requests
 - Week2:
-Relational Databases (MySQL), SQLAlchemy
+Relational Databases (MySQL), SQLAlchemy (ORM)
 - Week3:
-Git
+Git,
 NoSQL, Graph database(Neo4j) with cypher language
 Statistics & Probabilities
