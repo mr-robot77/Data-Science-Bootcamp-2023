@@ -14,3 +14,5 @@ Relational Databases (MySQL), SQLAlchemy (ORM)
 Git,
 NoSQL, Graph database(Neo4j) with cypher language
 Statistics & Probabilities
+- Week4:
+Statistics & Probabilities
