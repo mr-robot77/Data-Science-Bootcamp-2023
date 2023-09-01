@@ -17,3 +17,8 @@ Statistics & Probabilities
 - Week4:
 Statistics & Probabilities,
 Microsoft Power BI
+- Week5:
+Power BI Dashboarding,
+Linear Algebra & Calculus
+- Project1:
+Coinmarketcap
