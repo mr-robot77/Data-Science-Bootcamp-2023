@@ -21,4 +21,5 @@ Microsoft Power BI
 Power BI Dashboarding,
 Linear Algebra & Calculus
 - Project1:
-Coinmarketcap
+(Coinmarketcap)
+, Scraping Coins Data with Selenium,
