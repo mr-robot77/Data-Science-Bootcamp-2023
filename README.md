@@ -23,3 +23,4 @@ Linear Algebra & Calculus
 - Project1:
 (Coinmarketcap)
 , Scraping Coins Data with Selenium,
+Reading Data with SQLAlchemy,
