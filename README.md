@@ -24,3 +24,5 @@ Linear Algebra & Calculus
 (Coinmarketcap)
 , Scraping Coins Data with Selenium,
 Reading Data with SQLAlchemy,
+Analysis Statistics and Probability,
+Creating Power BI Dashboard
