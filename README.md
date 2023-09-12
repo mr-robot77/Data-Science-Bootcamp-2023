@@ -20,6 +20,8 @@ Microsoft Power BI
 - Week5:
 Power BI Dashboarding,
 Linear Algebra & Calculus
+- Week6:
+Machine Learning,
 - Project1:
 (Coinmarketcap)
 , Scraping Coins Data with Selenium,
