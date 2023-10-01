@@ -28,3 +28,5 @@ Machine Learning, Regression
 Reading Data with SQLAlchemy,
 Analysis Statistics and Probability,
 Creating Power BI Dashboard
+- Week7:
+Machine Learning, Classification, Calculus
