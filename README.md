@@ -32,3 +32,5 @@ Creating Power BI Dashboard
 Machine Learning(Classification), Calculus
 - Week8:
 Machine Learning(Decision Trees, Ensemble Learning)
+- Week9:
+Machine Learning(Dimensionality Reduction, Rule-based ML, Clustering)
