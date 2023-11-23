@@ -43,3 +43,5 @@ Clustering & Prediction
 Deep Learning (Convolutional)
 - Week12:
 Deep Learning (Natural Language Processing), Deep Learning (Sequential Model)
+- Project3 :
+(Amazon Products Image Classification & Customer Reviews Sentiment Analysis)
