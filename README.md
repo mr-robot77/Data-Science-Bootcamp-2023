@@ -22,7 +22,7 @@ Power BI Dashboarding,
 Linear Algebra & Calculus
 - Week6:
 Machine Learning (Regression)
-- Project1:
+- [Project1](https://github.com/mr-robot77/Coinmarketcap):
 (Coinmarketcap)
 , Scraping Coins Data with Selenium,
 Reading Data with SQLAlchemy,
