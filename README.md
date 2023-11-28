@@ -36,7 +36,7 @@ Machine Learning (Decision Trees, Ensemble Learning)
 Machine Learning (Dimensionality Reduction, Rule-based ML, Clustering)
 - Week10:
 Shallow Neural Network, Deep Learning
-- Project2:
+- [Project2](https://github.com/mr-robot77/Quera_G11-Project2):
 (Cryptocurrency data analysis with Machine Learning)
 Clustering & Prediction
 - Week11:
