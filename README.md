@@ -43,5 +43,5 @@ Clustering & Prediction
 Deep Learning (Convolutional)
 - Week12:
 Deep Learning (Natural Language Processing), Deep Learning (Sequential Model)
-- Project3 :
+- [Project3](https://github.com/mr-robot77/Quera_G11-Project3):
 (Amazon Products Image Classification & Customer Reviews Sentiment Analysis)
